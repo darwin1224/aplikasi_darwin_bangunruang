@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Aplikasi Darwin Bangun Ruang</string>
+  <string-array name="listview_entry">
+    <item>Hitung Volume Balok</item>
+    <item>Hitung Volume Kubus</item>
+    <item>Hitung Volume Tabung</item>
+  </string-array>
+</resources>
